@@ -153,6 +153,9 @@ color:white;
     #img-fit{
         display: none;
     }
+ .header-navigation{
+  gap:1px;
+ }
 
        
     .hero-title{
